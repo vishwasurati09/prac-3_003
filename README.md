@@ -1,10 +1,11 @@
-## Practical 3 Output Screenshots
+# Practical 3 – Python Programs
 
-### Right Half Pyramid
-![Right Half Pyramid](screenshots/right_half_pyramid.png)
+## Right Half Pyramid Output
+![Right Half Pyramid](right_half_pyramid.png)
 
-### Full Pyramid
-![Full Pyramid](screenshots/full_pyramid.png)
+## Full Pyramid Output
+![Full Pyramid](full_pyramid.png)
 
-### Even Numbers Output
-![Even Numbers](screenshots/even_numbers_1_to_100.png)
+## Even Numbers (1 to 100) Output
+![Even Numbers Output](even_numbers_1_to_100.png)
+
